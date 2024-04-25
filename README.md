@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 
 # Live Project
-https://flaskoshop.gilobyte.com
+[click here!](https://flaskoshop.gilobyte.com)
