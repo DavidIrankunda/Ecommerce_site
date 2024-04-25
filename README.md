@@ -18,7 +18,7 @@ An E-Commerce app built with Python Flask
 # Installation
 Downloading files:
 ```
-git clone https://github.com/DavidIrankunda/Flask-O-shop.git
+git clone https://github.com/DavidIrankunda/Ecommerce_site.git
 ```
 Installing requirements:
 ```py
